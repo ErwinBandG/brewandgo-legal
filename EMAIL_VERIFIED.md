@@ -1,3 +1,5 @@
+<div style="text-align: center; padding: 2rem 1rem;">
+<img src="./logo2.png" alt="Brew & Go" style="width: 100%; height: 260px; object-fit: cover; display: block; margin-bottom: 1.5rem;">
 
 # Email verified ✓
 
@@ -9,4 +11,6 @@ If the app doesn't open automatically, find Brew & Go on your home screen and lo
 
 ---
 
-Need help? Email **info@brewandgo.co.za**
+Need help? Email [info@brewandgo.co.za](mailto:info@brewandgo.co.za)
+
+</div>
